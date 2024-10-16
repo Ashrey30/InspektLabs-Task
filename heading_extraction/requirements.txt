@@ -1,0 +1,6 @@
+opencv-python
+pdf2image
+google-cloud-vision
+google-auth
+pandas
+python-dotenv
